@@ -1,0 +1,1 @@
+Surrogate-pair characters are special unicode characters for utf-16. By using 2 16-bit characters, a single 21-bit unicode character can be represented. These are not valid in utf-8, but can be represented.
