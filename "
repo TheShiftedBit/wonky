@@ -1,1 +1,0 @@
-Quotes are used for wrapping strings, often to turn off special character handling. In Bash, double-quotes still allow variable substitution.

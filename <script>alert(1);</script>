@@ -1,1 +1,0 @@
-Script tags can cause xss to occur in browsers. When slashes are needed, they can be created with subdirectories.
